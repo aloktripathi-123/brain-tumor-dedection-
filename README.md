@@ -70,16 +70,12 @@ python src/evaluate_model.py
 python src/predict.py --image sample.jpg
 ```
 
-7.  Model Results (Example Images)
 
-Below are sample output images that show prediction results and model performance visuals.
-
-
-8. Notes
+ N6.otes
 
 * You can replace the CNN with a more advanced architecture like ResNet or EfficientNet.
 * Ensure all images are preprocessed to the same resolution.
 
-9. Contribution
+7. Contribution
 
 Feel free to submit issues or pull requests.

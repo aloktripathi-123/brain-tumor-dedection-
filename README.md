@@ -71,7 +71,7 @@ python src/predict.py --image sample.jpg
 ```
 
 
- N6.otes
+ 6.Notes
 
 * You can replace the CNN with a more advanced architecture like ResNet or EfficientNet.
 * Ensure all images are preprocessed to the same resolution.

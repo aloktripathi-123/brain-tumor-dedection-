@@ -74,23 +74,6 @@ python src/predict.py --image sample.jpg
 
 Below are sample output images that show prediction results and model performance visuals.
 
-**Example: Accuracy/Loss Curve**
-
-![Accuracy Loss Curve](screenshot_accuracy_loss.png)
-(Replace this with your training curve screenshot)
-
-```
-[Insert accuracy/loss curve image here]
-```
-
-**Example: Model Prediction Result**
-
-![Prediction Screenshot](screenshot_prediction.png)
-
-
-```
-[Insert example prediction MRI image with label]
-```
 
 8. Notes
 
